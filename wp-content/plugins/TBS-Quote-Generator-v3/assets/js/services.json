@@ -1,0 +1,2149 @@
+{
+    "SEO Services": [
+        {
+            "id": "SEO_Entry_Package",
+            "name": "SEO Entry Package",
+            "items": [
+                "Max 10 keywords",
+                "5 - 10 keywords",
+                "1 - 2 Target Pages",
+                "Full Website Audit & Investigation",
+                "1st Class Technical Recommendations & Fixes",
+                "Excellent Customer Service",
+                "Quality Back-links",
+                "On-Page Content Development",
+                "Monthly Performance Tracking & Reports"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                25000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEO"
+        },
+        {
+            "id": "SEO_Elite_Package",
+            "name": "SEO Elite Package",
+            "items": [
+                "10 - 20 keywords",
+                "2 - 4 Target Pages",
+                "Full Website Audit & Investigation",
+                "1st Class Technical Recommendations & Fixes",
+                "Excellent Customer Service",
+                "Quality Back-links",
+                "On-Page Content Development",
+                "Google Business Page Optimization",
+                "Additional Quality Back-link created",
+                "Monthly Performance Tracking & Reports"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                35000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEO"
+        },
+        {
+            "id": "SEO_Premium_Package",
+            "name": "SEO Premium Package",
+            "items": [
+                "Max 30 keywords",
+                "20 - 30 keywords",
+                "4 - 6 Target Pages",
+                "Full Website Audit & Investigation",
+                "1st Class Technical Recommendations & Fixes",
+                "Excellent Customer Service",
+                "Quality Back-links",
+                "On-Page Content Development",
+                "Google Business Page Optimization",
+                "Blog Creation / Management",
+                "Structure data optimization (Schema code)",
+                "Additional Quality Back-link created",
+                "Monthly Performance Tracking & Reports"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                45000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEO"
+        },
+        {
+            "id": "SEO_First_Class_Package",
+            "name": "SEO First Class Package",
+            "items": [
+                "35 keywords +",
+                "6 Target Pages +",
+                "Full Website Audit & Investigation",
+                "1st Class Technical Recommendations & Fixes",
+                "Excellent Customer Service",
+                "Quality Back-links",
+                "On-Page Content Development",
+                "Google Business Page Optimization",
+                "Blog Creation / Management",
+                "Structure data optimization (Schema code)",
+                "Existing Back-link Audit & Clean-up",
+                "Goal & E-commerce conversion tracking",
+                "Additional Quality Back-link created",
+                "Monthly Performance Tracking & Reports"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                60000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEO"
+        }
+    ],
+    "Website Single Page Site": [
+        {
+            "id": "Website_Single_Page_Site-Starter",
+            "name": "Website Single Page Site - Starter",
+            "items": [
+                "Single Page Site (Wordpress)",
+                "Design Page Layout",
+                "Banner Design",
+                "Menu (section)",
+                "Language",
+                "Blog",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                5,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                15000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_Single_Page_Site-Basic",
+            "name": "Website Single Page Site - Basic",
+            "items": [
+                "Single Page Site (Wordpress)",
+                "Design Page Layout",
+                "Banner Design",
+                "Menu (section)",
+                "Language",
+                "Blog",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                2,
+                2,
+                5,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                20000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_Single_Page_Site-Business",
+            "name": "Website Single Page Site - Business",
+            "items": [
+                "Single Page Site (Wordpress)",
+                "Design Page Layout",
+                "Banner Design",
+                "Menu (section)",
+                "Language",
+                "Blog",
+                "Chatbox",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                2,
+                3,
+                5,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                25000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_Single_Page_Site-Premium",
+            "name": "Website Single Page Site - Premium",
+            "items": [
+                "Single Page Site (Wordpress)",
+                "Design Page Layout",
+                "Banner Design",
+                "Menu (section)",
+                "Language",
+                "Blog",
+                "Chatbox",
+                "Enquiry Form",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                3,
+                5,
+                10,
+                3,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                35000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        }
+    ],
+    "Website Company Site": [
+        {
+            "id": "Website_Company_Site-Starter",
+            "name": "Website Company Site - Starter",
+            "items": [
+                "Company Webiste (Wordpress)",
+                "Design Page Layout",
+                "Homepage Banner Design",
+                "Main Pages",
+                "Language",
+                "Blog",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Support Basic SEO",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                1,
+                2,
+                5,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                30000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_Company_Site-Basic",
+            "name": "Website Company Site - Basic",
+            "items": [
+                "Company Webiste (Wordpress)",
+                "Design Page Layout",
+                "Homepage Banner Design",
+                "Main Pages",
+                "Language",
+                "Blog",
+                "Chatbox",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Support Basic SEO",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                2,
+                3,
+                5,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                40000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_Company_Site-Business",
+            "name": "Website Company Site - Business",
+            "items": [
+                "Company Webiste (Wordpress)",
+                "Design Page Layout",
+                "Homepage Banner Design",
+                "Main Pages",
+                "Language",
+                "Blog",
+                "Chatbox",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Support Basic SEO",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                2,
+                5,
+                10,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                50000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_Company_Site-Premium",
+            "name": "Website Company Site - Premium",
+            "items": [
+                "Company Webiste (Wordpress)",
+                "Design Page Layout",
+                "Homepage Banner Design",
+                "Main Pages",
+                "Language",
+                "Blog",
+                "Chatbox",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Support Basic SEO",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                3,
+                5,
+                15,
+                3,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                65000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        }
+    ],
+    "Website E-Commerce Site": [
+        {
+            "id": "Website_E-Commerce_Site-Starter",
+            "name": "Website E-Commerce Site - Starter",
+            "items": [
+                "E-Commerce Website (Wordpress)",
+                "Design Page Layout",
+                "Banner Design",
+                "Main Pages",
+                "Product set-up",
+                "Language",
+                "Cart",
+                "Blog",
+                "Chatbox",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Support Basic SEO",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                1,
+                5,
+                5,
+                20,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                60000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_E-Commerce_Site-Basic",
+            "name": "Website E-Commerce Site - Basic",
+            "items": [
+                "E-Commerce Website (Wordpress)",
+                "Design Page Layout",
+                "Banner Design",
+                "Main Pages",
+                "Product set-up",
+                "Language",
+                "Cart",
+                "Blog",
+                "Chatbox",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Support Basic SEO",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                2,
+                10,
+                10,
+                50,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                120000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_E-Commerce_Site-Business",
+            "name": "Website E-Commerce Site - Business",
+            "items": [
+                "E-Commerce Website (Wordpress)",
+                "Design Page Layout",
+                "Banner Design",
+                "Main Pages",
+                "Product set-up",
+                "Language",
+                "Cart",
+                "Blog",
+                "Chatbox",
+                "Membership Function",
+                "Discount Function",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Support Basic SEO",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                2,
+                10,
+                15,
+                100,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                160000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        },
+        {
+            "id": "Website_E-Commerce_Site-Premium",
+            "name": "Website E-Commerce Site - Premium",
+            "items": [
+                "E-Commerce Website (Wordpress)",
+                "Design Page Layout",
+                "Banner Design",
+                "Main Pages",
+                "Product set-up",
+                "Language",
+                "Cart",
+                "Blog",
+                "Chatbox",
+                "Membership Function",
+                "Discount Function",
+                "Website Manual Usage",
+                "Responsive & Mobile friendly",
+                "Support Basic SEO",
+                "Hosting/Domain set-up",
+                "Free SSL (provide by Hosting)"
+            ],
+            "quantities": [
+                1,
+                3,
+                15,
+                20,
+                200,
+                3,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                180000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "WEBSITE"
+        }
+    ],
+    "Website Maintenance Services": [
+        {
+            "id": "Website_Maintenance_Salepage",
+            "name": "Website Maintenance Salepage",
+            "items": [
+                "Site Health Check Up",
+                "WP Core Update",
+                "Plugins Update",
+                "Report / Month",
+                "Website Consult",
+                "Hosting Consult",
+                "Backup : 1/Month",
+                "Content Update(up to 1 hour)"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                3000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "#"
+        },
+        {
+            "id": "Website_Maintenance_Company",
+            "name": "Website Maintenance Company",
+            "items": [
+                "Site Health Check Up",
+                "WP Core Update",
+                "Plugins Update",
+                "Report / Month",
+                "Website Consult",
+                "Fix General Problem",
+                "Hosting Consult",
+                "Backup : 2/Month",
+                "Content Update(up to 3 hour)",
+                "Add 1 Landing Page(No Assets)"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                3,
+                1
+            ],
+            "prices": [
+                5000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "#"
+        },
+        {
+            "id": "Website_Maintenance_E-Commerce",
+            "name": "Website Maintenance E-Commerce",
+            "items": [
+                "Site Health Check Up",
+                "WP Core Update",
+                "Plugins Update",
+                "Report / Month",
+                "Website Consult",
+                "Fix General Problem",
+                "Hosting Consult",
+                "Backup : 3/Month",
+                "Product/Content Update(up to 4 hour)",
+                "Add 2 Landing Page(No Assets)"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                4,
+                2
+            ],
+            "prices": [
+                7000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "custom_description": "#"
+        }
+    ],
+    "Google Packages": [
+        {
+            "id": "Google_Package_Startup",
+            "name": "Google Package Startup",
+            "items": [
+                "Keyword Research",
+                "Budget Planning",
+                "Creation & Optimisation of Search Ads Campaigns",
+                "Campaign Monitoring & Optimisation",
+                "Weekly Optimisation of Campaigns",
+                "Conversion Tracking Implementation",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                15000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Google_Package_Standard",
+            "name": "Google Package Standard",
+            "items": [
+                "Keyword Research",
+                "Budget Planning",
+                "Creation & Optimisation of Search Ads Campaigns",
+                "AB Testing Text Ads",
+                "Campaign Monitoring & Optimisation",
+                "Weekly Optimisation of Campaigns",
+                "Conversion Tracking Implementation",
+                "Advanced Campaign Planning & Consultation",
+                "Competitor Analysis",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                20000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Google_Package_Enterprise",
+            "name": "Google Package Enterprise",
+            "items": [
+                "Keyword Research",
+                "Budget Planning",
+                "Creation & Optimisation of Search Ads Campaigns",
+                "Creative Banners for Display Ads: 2",
+                "AB Testing Text Ads",
+                "Campaign Monitoring & Optimisation",
+                "Weekly Optimisation of Campaigns",
+                "Conversion Tracking Implementation",
+                "Advanced Campaign Planning & Consultation",
+                "Competitor Analysis",
+                "Quality Score Audit",
+                "Landing Page Suggestions",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                25000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        }
+    ],
+    "Facebook Packages": [
+        {
+            "id": "Facebook_Package_Startup",
+            "name": "Facebook Package Startup",
+            "items": [
+                "4 Creative Banners & Contents",
+                "Retargeting Campaign",
+                "Thai Language Targeting",
+                "Boost Post",
+                "Campaign Monitoring & Optimization",
+                "Pixel Implementation",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                15000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Facebook_Package_Standard",
+            "name": "Facebook Package Standard",
+            "items": [
+                "8 Creative Banners & Contents",
+                "Retargeting Campaign",
+                "Audience & Creatives A/B Testing",
+                "Thai or English Language Targeting",
+                "Boost Post",
+                "Campaign Monitoring & Optimization",
+                "Pixel Implementation",
+                "Competitor Research",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                20000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Facebook_Enterprise_Package",
+            "name": "Facebook Enterprise Package",
+            "items": [
+                "12 Creative Banners & Contents",
+                "Retargeting Campaign",
+                "Audience & Creatives A/B Testing",
+                "Thai and English Language Targeting",
+                "Boost Post",
+                "Campaign Monitoring & Optimization",
+                "Pixel Implementation",
+                "Competitor Research",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                25000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        }
+    ],
+    "Line Ads Packages": [
+        {
+            "id": "Line_Ads_Startup_Package",
+            "name": "Line Ads Startup Package",
+            "items": [
+                "2 Creative Broadcast Banners & Contents",
+                "2 Ads Banners & Content",
+                "Thai Language Targeting",
+                "Line Ads",
+                "Campaign Monitoring & Optimization",
+                "Conversion Tracking",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                15000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Line_Ads_Standard_Package",
+            "name": "Line Ads Standard Package",
+            "items": [
+                "4 Creative Broadcast Banners & Contents",
+                "4 Ads Banners & Content",
+                "Audience & Creatives A/B Testing",
+                "Thai or English Language Targeting",
+                "Line Ads",
+                "Retargeting Campaign",
+                "Campaign Monitoring & Optimization",
+                "Conversion Tracking",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                20000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Line_Ads_Entreprise_Package",
+            "name": "Line Ads Entreprise Package",
+            "items": [
+                "6 Creative Broadcast Banners & Contents",
+                "6 Ads Banners & Content",
+                "Audience & Creatives A/B Testing",
+                "Thai & English Language Targeting",
+                "Line Ads",
+                "Retargeting Campaign",
+                "Campaign Monitoring & Optimization",
+                "Conversion Tracking",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                25000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        }
+    ],
+    "LinkedIn Packages": [
+        {
+            "id": "LinkedIn_Startup_Package",
+            "name": "LinkedIn Startup Package",
+            "items": [
+                "4 Creative Banners & Contents",
+                "Retargeting Campaign",
+                "English Language Targeting",
+                "Campaign Monitoring & Optimization",
+                "Pixel Implementation",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                15000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "LinkedIn_Standard_Package",
+            "name": "LinkedIn Standard Package",
+            "items": [
+                "8 Creative Banners & Contents",
+                "Retargeting Campaign",
+                "Audience & Creatives A/B Testing",
+                "English Language Targeting",
+                "Campaign Monitoring & Optimization",
+                "Pixel Implementation",
+                "Competitor Research",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                20000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "LinkedIn_Enterprise_Package",
+            "name": "LinkedIn Enterprise Package",
+            "items": [
+                "12 Creative Banners & Contents",
+                "Retargeting Campaign",
+                "Audience & Creatives A/B Testing",
+                "English Language Targeting",
+                "Campaign Monitoring & Optimization",
+                "Pixel Implementation",
+                "Competitor Research",
+                "Advanced Campaign Planning & Consultation",
+                "Dedicated Account Managers",
+                "Monthly Reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                25000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        }
+    ],
+    "Shopee Ads Packages": [
+        {
+            "id": "Shopee_Ads_Starter_Package",
+            "name": "Shopee Ads Starter Package",
+            "items": [
+                "Show up 1-10 products",
+                "30 days advertising",
+                "Keyword Ads",
+                "Discovery Ads",
+                "Shop Ads",
+                "Target group all over Thailand",
+                "Daily Ads Budget (recommend) 300 THB + / Day"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                7500,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Shopee_Ads_Start_Up_Package",
+            "name": "Shopee Ads Start Up Package",
+            "items": [
+                "up to 10 products",
+                "30 days advertising",
+                "Keyword Research",
+                "Ads Optimization",
+                "Target group all over Thailand",
+                "Daily Ads Budget (recommend) 500 THB + / Day",
+                "Monthly Report"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                10000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Shopee_Ads_Elite_Package",
+            "name": "Shopee Ads Elite Package",
+            "items": [
+                "Show up 11-20 products",
+                "30 days advertising",
+                "Keyword Research",
+                "Ads Optimization",
+                "Target group all over Thailand",
+                "Daily Ads Budget (recommend) 500 THB + / Day",
+                "Monthly Report"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                15000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Shopee_Ads_Premium_Package",
+            "name": "Shopee Ads Premium Package",
+            "items": [
+                "Show up 21-30 products",
+                "30 days advertising",
+                "Keyword Research",
+                "Ads Optimization",
+                "Target group all over Thailand",
+                "Daily Ads Budget (recommend) 1,000 THB + / Day",
+                "Monthly Report"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                20000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        }
+    ],
+    "Lazada Ads Packages": [
+        {
+            "id": "Lazada_Ads_Starter_Package",
+            "name": "Lazada Ads Starter Package",
+            "items": [
+                "up to 10 products",
+                "Ads that drive more traffic & sales",
+                "Keyword research",
+                "Ads Optimization",
+                "Target group all over Thailand",
+                "Daily Ads Budget (recommend) 300 THB + / Day",
+                "Monthly Report"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                10000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Lazada_Ads_Elite_Package",
+            "name": "Lazada Ads Elite Package",
+            "items": [
+                "11-20 products",
+                "Ads that drive more traffic & sales",
+                "Keyword research",
+                "Ads Optimization",
+                "Target group all over Thailand",
+                "Daily Ads Budget (recommend) 500 THB + / Day",
+                "Monthly Report"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                15000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        },
+        {
+            "id": "Lazada_Ads_Premium_Package",
+            "name": "Lazada Ads Premium Package",
+            "items": [
+                "21-30 products",
+                "Ads that drive more traffic & sales",
+                "Keyword research",
+                "Ads Optimization",
+                "Target group all over Thailand",
+                "Daily Ads Budget (recommend) 1,000 THB + / Day",
+                "Monthly Report"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                20000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "SEM/SMM"
+        }
+    ],
+     "TikTok Packages": [
+        {
+            "id": "tiktok_package_startup",
+              "name": "TikTok Package Startup",
+    "items": [
+      "TikTok Ads Management",
+      "Budget Planning",
+      "Developed Full-Funnel Campaigns",
+      "Campaign Monitoring & Optimization",
+      "Full-Funnel Retargeting",
+      "AB Testing (Audience & Video)",
+      "Trend Research",
+      "Dedicated Account Managers",
+      "Monthly Reporting"
+    ],
+    "quantities": [1,1,1,1,1,1,1,1,1],
+    "prices": [10000,0,0,0,0,0,0,0,0],
+    "monthly_price": true,
+    "custom_description": "SEM/SMM"
+  },
+        {
+            "id": "tiktok_package_standard",
+             "name": "TikTok Package Standard",
+    "items": [
+      "TikTok Ads Optimization",
+      "Budget Planning",
+      "Developed Full-Funnel Campaigns",
+      "Campaign Monitoring & Optimization",
+      "Full-Funnel Retargeting",
+      "AB Testing (Audience & Video)",
+      "Trend Research",
+      "Competitor Analysis",
+      "Dedicated Account Managers",
+      "Mid-month Mini Report",
+      "Monthly Reporting"
+    ],
+    "quantities": [1,1,1,1,1,1,1,1,1,1,1],
+    "prices": [15000,0,0,0,0,0,0,0,0,0,0],
+    "monthly_price": true,
+    "custom_description": "SEM/SMM"
+  }
+    ],
+    "Backlink Packages": [
+        {
+            "id": "Thai_BackLink_&_Content_Creation",
+            "name": "Thai BackLink & Content Creation",
+            "items": [
+                "Do follow SEO BackLinks",
+                "No Spam posting, Manual Post Only",
+                "Quality, Native Thai manually written relevant content",
+                "Permanent Link",
+                "Sites hosted on 100% Different IP's",
+                "Niche Category Website",
+                "Native Thai Language websites",
+                "All website are indexed on Google",
+                "Natural link building strategy"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                3500,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "Backlink"
+        },
+        {
+            "id": "Backlink_Elite_Package",
+            "name": "Backlink Elite Package",
+            "items": [
+                "5 Contextual Links",
+                "Choose your own anchor text",
+                "5 Unique Contents",
+                "Each link supported by at least 500+ words of quality unique and relevant content",
+                "Placed on 5 separate Domains",
+                "Niche Specific Sites",
+                "Delivery: up to 30 days"
+            ],
+            "quantities": [
+                5,
+                1,
+                5,
+                5,
+                5,
+                1,
+                1
+            ],
+            "prices": [
+                17000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "Backlink"
+        },
+        {
+            "id": "Backlink_Premium_Package",
+            "name": "Backlink Premium Package",
+            "items": [
+                "15 Contextual Links",
+                "Choose your own anchor text",
+                "15 Unique Contents",
+                "Each link supported by at least 500+ words of quality unique and relevant content",
+                "Placed on 15 separate Domains",
+                "Niche Specific Sites",
+                "Delivery: up to 30 days"
+            ],
+            "quantities": [
+                15,
+                1,
+                15,
+                15,
+                15,
+                1,
+                1
+            ],
+            "prices": [
+                50000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "Backlink"
+        },
+        {
+            "id": "Backlink_First_Class_Package",
+            "name": "Backlink First Class Package",
+            "items": [
+                "20 Contextual Links",
+                "Choose your own anchor text",
+                "20 Unique Contents",
+                "Each link supported by at least 500+ words of quality unique and relevant content",
+                "Placed on 20 separate Domains",
+                "Niche Specific Sites",
+                "Delivery: up to 30 days"
+            ],
+            "quantities": [
+                20,
+                1,
+                20,
+                20,
+                20,
+                1,
+                1
+            ],
+            "prices": [
+                65000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "Backlink"
+        },
+        {
+            "id": "Backlink_Starter_Package",
+            "name": "Backlink Starter Package",
+            "items": [
+                "3 Contextual Links",
+                "Choose your own keywords",
+                "Choose your own Article Titles",
+                "Each of the articles that we've linked to you is of high-quality and relevance to your keyword. (No copying from other sources)",
+                "High quality links from 3 separate Domains",
+                "Our website is categorical and addresses the challenges of each keyword",
+                "Delivery time is within 7-12 days",
+                "Great option to help boost your website's ranking for one or two less competitive search terms."
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                880,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "Backlink"
+        },
+        {
+            "id": "Backlink_Professional_Package",
+            "name": "Backlink Professional Package",
+            "items": [
+                "6 Contextual Links",
+                "Option to Choose your own keywords",
+                "Choose your own Article Titles",
+                "Each of the articles that we've linked to you is of high-quality and relevance to your keyword. (No copying from other sources)",
+                "High quality links from 6 separate Domains",
+                "Our website is categorical and addresses the challenges of each keyword",
+                "Delivery time is within 15 days Period",
+                "This package is suitable if you are looking to tackle highly competitive terms on your website."
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                1500,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "Backlink"
+        },
+        {
+            "id": "Backlink_Enterprise_Package",
+            "name": "Backlink Enterprise Package",
+            "items": [
+                "10 Contextual Links",
+                "Option to Choose your own keywords",
+                "Choose your own Article Titles",
+                "Each of the articles that we've linked to you is of high-quality and relevance to your keyword. (No copying from other sources)",
+                "High quality links from 10 separate Domains",
+                "Our website is categorical and addresses the challenges of each keyword",
+                "Delivery time is within 21 days Period",
+                "This package is suitable if you are looking to tackle highly competitive terms on your website."
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                2300,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "Backlink"
+        }
+    ],
+    "Event Management": [
+        {
+            "id": "Event_Management",
+            "name": "Event Management",
+            "custom_description": "Event",
+            "monthly_price": false,
+            "items": [
+                "Participant Rewards & Incentives",
+                "Weekly Top 5 Cash Prizes (1,500 THB x 5 x 6 weeks)",
+                "Top 6–10 Weekly Gift Vouchers (150 THB x 5 x 6 weeks)",
+                "KOL & Guest Speaker Management",
+                "KOL / Influencer briefing, content coordination, and publishing",
+                "Guest Speaker and Mentor honorarium",
+                "System Development & Data Management",
+                "Registration platform, file submission system, auto-results announcement",
+                "Weekly prompt delivery system, evaluation dashboards, data exports",
+                "Technical support and developer standby throughout the program",
+                "Educational Activities & Workshops",
+                "Planning and execution of university workshops and mentoring sessions",
+                "On-site staff, training materials, logistics and equipment",
+                "Mentorship program for finalist teams and expert talks",
+                "PR & Communication Materials",
+                "Design of key visuals, posters, infographics, and social assets",
+                "Weekly content recap and highlight video production",
+                "Liaison with university pages and partner channels for digital outreach",
+                "Staff coordination for event days, logistics support, production assistants",
+                "Project Management Fee",
+                "Strategic planning, cross-team coordination, timeline control, weekly updates with client, execution supervision, quality assurance, and reporting"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                72500,
+                0,
+                0,
+                120000,
+                0,
+                0,
+                100000,
+                0,
+                0,
+                0,
+                130000,
+                0,
+                0,
+                0,
+                117500,
+                0,
+                0,
+                0,
+                0,
+                60000,
+                0
+            ],
+            "structure": [
+                {
+                    "row_id": "1",
+                    "parent_id": "1"
+                },
+                {
+                    "row_id": "1.1",
+                    "parent_id": "1"
+                },
+                {
+                    "row_id": "1.2",
+                    "parent_id": "1"
+                },
+                {
+                    "row_id": "2",
+                    "parent_id": "2"
+                },
+                {
+                    "row_id": "2.1",
+                    "parent_id": "2"
+                },
+                {
+                    "row_id": "2.2",
+                    "parent_id": "2"
+                },
+                {
+                    "row_id": "3",
+                    "parent_id": "3"
+                },
+                {
+                    "row_id": "3.1",
+                    "parent_id": "3"
+                },
+                {
+                    "row_id": "3.2",
+                    "parent_id": "3"
+                },
+                {
+                    "row_id": "3.3",
+                    "parent_id": "3"
+                },
+                {
+                    "row_id": "4",
+                    "parent_id": "4"
+                },
+                {
+                    "row_id": "4.1",
+                    "parent_id": "4"
+                },
+                {
+                    "row_id": "4.2",
+                    "parent_id": "4"
+                },
+                {
+                    "row_id": "4.3",
+                    "parent_id": "4"
+                },
+                {
+                    "row_id": "5",
+                    "parent_id": "5"
+                },
+                {
+                    "row_id": "5.1",
+                    "parent_id": "5"
+                },
+                {
+                    "row_id": "5.2",
+                    "parent_id": "5"
+                },
+                {
+                    "row_id": "5.3",
+                    "parent_id": "5"
+                },
+                {
+                    "row_id": "5.4",
+                    "parent_id": "5"
+                },
+                {
+                    "row_id": "6",
+                    "parent_id": "6"
+                },
+                {
+                    "row_id": "6.1",
+                    "parent_id": "6"
+                }
+            ]
+        }
+    ],
+    "AEO Services": [
+        {
+            "id": "AEO_Services",
+            "name": "AEO Services",
+            "items": [
+                "Keyword Research & User Intent Analysis",
+                "Keyword Grouping by Search Intent",
+                "Content Pillar Development & Semantic SEO",
+                "SEO Content Creation (3 Articles per Month)",
+                "Content Optimization",
+                "Structured Data Implementation (Schema Markup)",
+                "On-Page SEO Optimization",
+                "Competitor Analysis",
+                "SEO Link Building"
+            ],
+            "quantities": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "prices": [
+                15000,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "monthly_price": true,
+            "custom_description": "AEO"
+        }
+    ]
+}

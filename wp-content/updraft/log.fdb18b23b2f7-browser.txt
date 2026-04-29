@@ -1,0 +1,148 @@
+0000.015 (R) [notice] Looking for db archive: file name: backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-db.gz
+0000.016 (R) [notice] Archive is expected to be size: 732.9 KB: OK
+0000.019 (R) [notice] Looking for plugins archive: file name: backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins.zip
+0000.020 (R) [notice] Archive is expected to be size: 25539.7 KB: OK
+0000.021 (R) [notice] Looking for plugins archive: file name: backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins2.zip
+0000.021 (R) [notice] Archive is expected to be size: 12418.1 KB: OK
+0000.023 (R) [notice] Looking for themes archive: file name: backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-themes.zip
+0000.024 (R) [notice] Archive is expected to be size: 18528.1 KB: OK
+0000.026 (R) [notice] Looking for uploads archive: file name: backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-uploads.zip
+0000.027 (R) [notice] Archive is expected to be size: 3071.6 KB: OK
+0000.028 (R) [notice] Looking for others archive: file name: backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-others.zip
+0000.029 (R) [notice] Archive is expected to be size: 2790.8 KB: OK
+0000.032 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.035 (R) [notice] Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-db.gz, 0.7 Mb)
+0000.039 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.101 (R) [notice] Enabling Maintenance mode&#8230;
+0000.118 (R) [notice] Backup of: https://quotation.local.tbs-staging.com
+0000.132 (R) [notice] Content URL: https://quotation.local.tbs-staging.com/wp-content
+0000.132 (R) [notice] Uploads URL: https://quotation.local.tbs-staging.com/wp-content/uploads
+0000.132 (R) [notice] Old table prefix: wp_
+0000.132 (R) [notice] Old ABSPATH: /var/www/vhosts/tbs-staging.com/quotation.local.tbs-staging.com/
+0000.132 (R) [notice] Site information: multisite = 0
+0000.132 (R) [notice] Site information: sql_mode = ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0000.133 (R) [notice] New table prefix: bg_
+0000.139 (R) [notice] Processing table (InnoDB):  wp_options - will restore as: bg_options
+0000.278 (R) [notice] Atomic restore: dropping original table (wp_options)
+0000.287 (R) [notice] Atomic restore: renaming new table (bg_options) to final table name (wp_options)
+0000.732 (R) [notice] Search and replacing table: wp_options: rows: 349
+0000.805 (R) [notice] Processing table (InnoDB):  wp_users - will restore as: bg_users
+0000.843 (R) [notice] Atomic restore: dropping original table (wp_users)
+0000.853 (R) [notice] Atomic restore: renaming new table (bg_users) to final table name (wp_users)
+0000.870 (R) [notice] Search and replacing table: wp_users: rows: 20
+0000.873 (R) [notice] Processing table (InnoDB):  wp_usermeta - will restore as: bg_usermeta
+0000.918 (R) [notice] Atomic restore: dropping original table (wp_usermeta)
+0000.927 (R) [notice] Atomic restore: renaming new table (bg_usermeta) to final table name (wp_usermeta)
+0000.945 (R) [notice] Search and replacing table: wp_usermeta: rows: 336
+0000.950 (R) [notice] Processing table (InnoDB):  wp_commentmeta - will restore as: bg_commentmeta
+0000.987 (R) [notice] Atomic restore: dropping original table (wp_commentmeta)
+0000.996 (R) [notice] Atomic restore: renaming new table (bg_commentmeta) to final table name (wp_commentmeta)
+0001.011 (R) [notice] Search and replacing table: wp_commentmeta: rows: 0
+0001.011 (R) [notice] Processing table (InnoDB):  wp_comments - will restore as: bg_comments
+0001.057 (R) [notice] Atomic restore: dropping original table (wp_comments)
+0001.067 (R) [notice] Atomic restore: renaming new table (bg_comments) to final table name (wp_comments)
+0001.083 (R) [notice] Search and replacing table: wp_comments: rows: 1
+0001.084 (R) [notice] Processing table (InnoDB):  wp_links - will restore as: bg_links
+0001.117 (R) [notice] Atomic restore: dropping original table (wp_links)
+0001.129 (R) [notice] Atomic restore: renaming new table (bg_links) to final table name (wp_links)
+0001.146 (R) [notice] Search and replacing table: wp_links: rows: 0
+0001.146 (R) [notice] Processing table (InnoDB):  wp_postmeta - will restore as: bg_postmeta
+0001.198 (R) [notice] Atomic restore: dropping original table (wp_postmeta)
+0001.208 (R) [notice] Atomic restore: renaming new table (bg_postmeta) to final table name (wp_postmeta)
+0001.221 (R) [notice] Search and replacing table: wp_postmeta: rows: 0
+0001.221 (R) [notice] Processing table (InnoDB):  wp_posts - will restore as: bg_posts
+0001.268 (R) [notice] Atomic restore: dropping original table (wp_posts)
+0001.281 (R) [notice] Atomic restore: renaming new table (bg_posts) to final table name (wp_posts)
+0001.299 (R) [notice] Search and replacing table: wp_posts: rows: 21
+0001.301 (R) [notice] Processing table (InnoDB):  wp_term_relationships - will restore as: bg_term_relationships
+0001.335 (R) [notice] Atomic restore: dropping original table (wp_term_relationships)
+0001.344 (R) [notice] Atomic restore: renaming new table (bg_term_relationships) to final table name (wp_term_relationships)
+0001.355 (R) [notice] Skipping this table: data in this table (wp_term_relationships) should not be search/replaced
+0001.355 (R) [notice] Processing table (InnoDB):  wp_term_taxonomy - will restore as: bg_term_taxonomy
+0001.393 (R) [notice] Atomic restore: dropping original table (wp_term_taxonomy)
+0001.403 (R) [notice] Atomic restore: renaming new table (bg_term_taxonomy) to final table name (wp_term_taxonomy)
+0001.417 (R) [notice] Search and replacing table: wp_term_taxonomy: rows: 5
+0001.418 (R) [notice] Processing table (InnoDB):  wp_termmeta - will restore as: bg_termmeta
+0001.467 (R) [notice] Atomic restore: dropping original table (wp_termmeta)
+0001.478 (R) [notice] Atomic restore: renaming new table (bg_termmeta) to final table name (wp_termmeta)
+0001.492 (R) [notice] Search and replacing table: wp_termmeta: rows: 0
+0001.492 (R) [notice] Processing table (InnoDB):  wp_terms - will restore as: bg_terms
+0001.542 (R) [notice] Atomic restore: dropping original table (wp_terms)
+0001.551 (R) [notice] Atomic restore: renaming new table (bg_terms) to final table name (wp_terms)
+0001.566 (R) [notice] Search and replacing table: wp_terms: rows: 5
+0001.567 (R) [notice] Processing table (InnoDB):  wp_duplicator_pro_entities - will restore as: bg_duplicator_pro_entities
+0001.603 (R) [notice] Atomic restore: dropping original table (wp_duplicator_pro_entities)
+0001.605 (R) [notice] Atomic restore: renaming new table (bg_duplicator_pro_entities) to final table name (wp_duplicator_pro_entities)
+0001.618 (R) [notice] Search and replacing table: wp_duplicator_pro_entities: rows: 5
+0001.623 (R) [notice] Processing table (InnoDB):  wp_duplicator_pro_packages - will restore as: bg_duplicator_pro_packages
+0001.659 (R) [notice] Atomic restore: dropping original table (wp_duplicator_pro_packages)
+0001.661 (R) [notice] Atomic restore: renaming new table (bg_duplicator_pro_packages) to final table name (wp_duplicator_pro_packages)
+0001.675 (R) [notice] Search and replacing table: wp_duplicator_pro_packages: rows: 1
+0001.681 (R) [notice] Processing table (InnoDB):  wp_quote_history - will restore as: bg_quote_history
+0001.818 (R) [notice] Database queries processed: 50 in 1.77 seconds
+0003.377 (R) [notice] Disabling Maintenance mode&#8230;
+0003.378 (R) [notice] Atomic restore: dropping original table (wp_quote_history)
+0003.381 (R) [notice] Atomic restore: renaming new table (bg_quote_history) to final table name (wp_quote_history)
+0003.407 (R) [notice] Search and replacing table: wp_quote_history: rows: 2086
+0004.129 (R) [notice] Finished: lines processed: 87 in 4.08 seconds
+0004.129 (R) [notice] Cleaning up rubbish...
+0004.135 (R) [notice] Database search and replace: replace https://quotation.local.tbs-staging.com in backup dump with http://nickyworachat.local
+0004.135 (R) [notice] Database search and replace: replace http://quotation.local.tbs-staging.com in backup dump with http://nickyworachat.local
+0004.135 (R) [notice] Database search and replace: replace /var/www/vhosts/tbs-staging.com/quotation.local.tbs-staging.com in backup dump with C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public
+0004.139 (R) [notice] Search and replacing table: wp_commentmeta: already done
+0004.139 (R) [notice] Search and replacing table: wp_comments: already done
+0004.139 (R) [notice] Search and replacing table: wp_duplicator_pro_entities: already done
+0004.139 (R) [notice] Search and replacing table: wp_duplicator_pro_packages: already done
+0004.139 (R) [notice] Search and replacing table: wp_links: already done
+0004.139 (R) [notice] Search and replacing table: wp_options: already done
+0004.139 (R) [notice] Search and replacing table: wp_postmeta: already done
+0004.139 (R) [notice] Search and replacing table: wp_posts: already done
+0004.139 (R) [notice] Search and replacing table: wp_quote_history: already done
+0004.139 (R) [notice] Search and replacing table: wp_term_relationships: already done
+0004.139 (R) [notice] Search and replacing table: wp_term_taxonomy: already done
+0004.139 (R) [notice] Search and replacing table: wp_termmeta: already done
+0004.139 (R) [notice] Search and replacing table: wp_terms: already done
+0004.139 (R) [notice] Search and replacing table: wp_usermeta: already done
+0004.139 (R) [notice] Search and replacing table: wp_users: already done
+0004.139 (R) [notice] Tables examined: 14
+0004.139 (R) [notice] Rows examined: 2829
+0004.139 (R) [notice] Changes made: 82
+0004.139 (R) [notice] SQL update commands run: 82
+0004.139 (R) [notice] Errors: 0
+0004.139 (R) [notice] Time taken (seconds): 0.868
+0004.158 (R) [notice] Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins.zip, 24.9 MB)
+0004.973 (R) [notice] Unzip progress: 1347 out of 8032 files (17 B, plugins/duplicator-pro/vendor/index.php)
+0008.042 (R) [notice] Unzip progress: 2348 out of 8032 files (8.9 MB, plugins/duplicator-pro/lib/onedrive/src/Krizalys/Onedrive/Folder.php)
+0010.941 (R) [notice] Unzip progress: 3349 out of 8032 files (15.2 MB, plugins/updraftplus/vendor/guzzlehttp/guzzle/src/Client.php)
+0013.768 (R) [notice] Unzip progress: 4350 out of 8032 files (23.3 MB, plugins/updraftplus/includes/labelauty/jquery-labelauty-2-22-22.min.css)
+0016.831 (R) [notice] Unzip progress: 5351 out of 8032 files (36.3 MB, plugins/bb-plugin/includes/vendor/mailerlite/php-http/promise/src/FulfilledPromise.php)
+0020.079 (R) [notice] Unzip progress: 6352 out of 8032 files (66.3 MB, plugins/TBS-Quote-Generator-v3/vendor/symfony/polyfill-mbstring/LICENSE)
+0023.285 (R) [notice] Unzip progress: 7353 out of 8032 files (67.8 MB, plugins/TBS-Quote-Generator-v3/vendor/nesbot/carbon/src/Carbon/Lang/en_BE.php)
+0025.357 (R) [notice] Unzip progress: 8032 out of 8032 files (80.9 MB, plugins/TBS-Quote-Generator-v3/vendor/dompdf/dompdf/lib/fonts/DejaVuSans-Oblique.ufm)
+0025.366 (R) [notice] Moving old data out of the way...
+0025.571 (R) [notice] Moving unpacked backup into place...
+0026.425 (R) [notice] Cleaning up rubbish...
+0026.426 (R) [notice] Disabled this plugin: WP Fastest Cache: re-activate it manually when you are ready.
+0026.431 (R) [notice] Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins2.zip, 12.1 MB)
+0029.286 (R) [notice] Unzip progress: 899 out of 899 files (20.1 MB, plugins/wp-fastest-cache/languages/wp-fastest-cache-en_ZA.po)
+0029.291 (R) [notice] Moving unpacked backup into place...
+0030.995 (R) [notice] Cleaning up rubbish...
+0030.996 (R) [notice] Disabled this plugin: WP Fastest Cache: re-activate it manually when you are ready.
+0031.004 (R) [notice] Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-themes.zip, 18.1 MB)
+0033.350 (R) [notice] Unzip progress: 1002 out of 1484 files (16.9 MB, themes/astra/assets/css/minified/editor-style.min-rtl.css)
+0034.992 (R) [notice] Unzip progress: 1484 out of 1484 files (32.1 MB, themes/astra-child/functions.php)
+0034.999 (R) [notice] Moving old data out of the way...
+0035.067 (R) [notice] Moving unpacked backup into place...
+0035.287 (R) [notice] Cleaning up rubbish...
+0035.294 (R) [notice] Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-uploads.zip, 3 MB)
+0035.384 (R) [notice] Unzip progress: 69 out of 69 files (3.1 MB, uploads/2024/03/aerial-photography-tianjin-city-building-skyline-night-view-768x549.webp)
+0035.389 (R) [notice] Moving old data out of the way...
+0035.393 (R) [notice] Moving unpacked backup into place...
+0035.429 (R) [notice] Cleaning up rubbish...
+0035.436 (R) [notice] Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-others.zip, 2.7 MB)
+0035.474 (R) [notice] Unzip progress: 22 out of 22 files (2.7 MB, index.php)
+0035.490 (R) [notice] Cleaning up rubbish...
+0035.491 (R) [notice] Error: Failed to delete working directory after restoring. (C:/Users/JM505 Computers/Local Sites/nickyworachat/app/public/wp-content/upgrade/1951f0dd)
+0035.492 (R) [notice] Files found:
+0035.492 (R) [notice] * upgrade
+0035.554 (R) [notice] Restore successful!

@@ -1,0 +1,7 @@
+0000.000 (1) Opened log file at time: Wed, 29 Apr 2026 02:10:23 +0000 on http://nickyworachat.local
+0000.003 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.22.22.25 WP: 6.9 PHP: 8.2.29 (cgi-fcgi, Windows NT DESKTOP-9K75HR8 10.0 build 26200 (Windows 11) AMD64) MySQL: 8.0.35 (max packet size=1073741824) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 8.9M | 10M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (1) Free space on disk containing Updraft's temporary directory: 353787.4 MB
+0000.011 (1) Requesting backup semaphore lock (d4a28a53a514)
+0000.016 (1) [Debug] Lock option (updraft_lock_d4a28a53a514, wp_options) was created in the database
+0000.018 (1) [Info] Lock (updraft_lock_d4a28a53a514, wp_options) acquired after initialising the database
+0000.021 (1) This backup task (d4a28a53a514) is either complete or began over 2 days ago: ending (1777428623.1653, ) (existing jobdata keys: )

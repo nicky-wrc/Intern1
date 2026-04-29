@@ -1,0 +1,1860 @@
+{
+    "SEO Services": {
+        "SEO Entry Package": [
+            {
+                "id": 1,
+                "name": "SEO Entry Package",
+                "quantities": "1",
+                "price": "35000",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "5 \u2013 10 Keywords",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "1 - 2 Target Pages",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Full Website Audit & Investigation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "1st Class Technical Recommendations & Fixes",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.5,
+                        "name": "Excellent Customer Service",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.6,
+                        "name": "Quality Back-links",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.7,
+                        "name": "On-Page Content Development",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.8,
+                        "name": "Monthly Performance Tracking & Reports",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "SEO Elite Package": [
+            {
+                "id": 2,
+                "name": "SEO Elite Package",
+                "quantities": "1",
+                "price": "45000",
+                "items": [
+                    {
+                        "id": 2.1,
+                        "name": "10 \u2013 20 Keywords",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.2,
+                        "name": "2 - 4 Target Pages",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.3,
+                        "name": "Full Website Audit & Investigation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.4,
+                        "name": "1st Class Technical Recommendations & Fixes",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.5,
+                        "name": "Excellent Customer Service",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.6,
+                        "name": "Quality Back-links",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.7,
+                        "name": "On-Page Content Development",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.8,
+                        "name": "Monthly Performance Tracking & Reports",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.9,
+                        "name": "Google Business Page Optimisation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.1,
+                        "name": "Additional Quality Back-links created",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "SEO Premium Package": [
+            {
+                "id": 3,
+                "name": "SEO Premium Package",
+                "quantities": "1",
+                "price": "55000",
+                "items": [
+                    {
+                        "id": 3.1,
+                        "name": "20 \u2013 30 Keywords",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.2,
+                        "name": "4 - 6 Target Pages",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.3,
+                        "name": "Full Website Audit & Investigation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.4,
+                        "name": "1st Class Technical Recommendations & Fixes",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.5,
+                        "name": "Excellent Customer Service",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.6,
+                        "name": "Quality Back-links",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.7,
+                        "name": "On-Page Content Development",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.8,
+                        "name": "Monthly Performance Tracking & Reports",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.9,
+                        "name": "Google Business Page Optimisation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.1,
+                        "name": "Additional Quality Back-links created",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.11,
+                        "name": "Blog Creation / Management",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.12,
+                        "name": "Structure Data Optimisation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.13,
+                        "name": "Additional Quality Back-links created",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "SEO First Class Package": [
+            {
+                "id": 4,
+                "name": "SEO First Class Package",
+                "quantities": "1",
+                "price": "65000",
+                "items": [
+                    {
+                        "id": 4.1,
+                        "name": "35+ Keywords",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.2,
+                        "name": "6 Target Pages",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.3,
+                        "name": "Full Website Audit & Investigation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.4,
+                        "name": "1st Class Technical Recommendations & Fixes",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.5,
+                        "name": "Excellent Customer Service",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.6,
+                        "name": "Quality Back-links",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.7,
+                        "name": "On-Page Content Development",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.8,
+                        "name": "Monthly Performance Tracking & Reports",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.9,
+                        "name": "Google Business Page Optimisation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.1,
+                        "name": "Additional Quality Back-links created",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.11,
+                        "name": "Blog Creation / Management",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.12,
+                        "name": "Additional Quality Back-links created",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.13,
+                        "name": "Existing Back-link Audit & Clean-up",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.14,
+                        "name": "Goals & E-commerce conversion tracking",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.15,
+                        "name": "Identify website error in GSC",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.16,
+                        "name": "Additional Quality Back-links",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "Website Single Page Site": {
+        "Website Single Page Site - Starter": [
+            {
+                "id": 1,
+                "name": "Website Single Page Site - Starter",
+                "quantities": "1",
+                "price": "15000",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "Banner Design",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Menu(section)",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "Language",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website Single Page Site - Basic": [
+            {
+                "id": 2,
+                "name": "Website Single Page Site - Basic",
+                "quantities": "1",
+                "price": "20000",
+                "items": [
+                    {
+                        "id": 2.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.2,
+                        "name": "Banner Design",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.3,
+                        "name": "Menu(section)",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.4,
+                        "name": "Language",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.5,
+                        "name": "Content(500 words)",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website Single Page Site - Business": [
+            {
+                "id": 3,
+                "name": "Website Single Page Site - Business",
+                "quantities": "1",
+                "price": "25000",
+                "items": [
+                    {
+                        "id": 3.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.2,
+                        "name": "Banner Design",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.3,
+                        "name": "Menu(section)",
+                        "quantities": "3",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.4,
+                        "name": "Language",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.5,
+                        "name": "Content(500 words)",
+                        "quantities": "2",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website Single Page Site - Premium": [
+            {
+                "id": 4,
+                "name": "Website Single Page Site - Premium",
+                "quantities": "1",
+                "price": "35000",
+                "items": [
+                    {
+                        "id": 4.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.2,
+                        "name": "Banner Design",
+                        "quantities": "3",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.3,
+                        "name": "Menu(section) - 5 to 10",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.4,
+                        "name": "Language",
+                        "quantities": "10",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.5,
+                        "name": "Content(500 words)",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.6,
+                        "name": "Blog",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.7,
+                        "name": "Chat Box",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "Website Company Site": {
+        "Website Company Site - Starter": [
+            {
+                "id": 1,
+                "name": "Website Company Site - Starter",
+                "quantities": "1",
+                "price": "30000",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "Banner Design",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Menu(section)",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "Blog",
+                        "quantities": "5",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website Company Site - Basic": [
+            {
+                "id": 2,
+                "name": "Website Company Site - Basic",
+                "quantities": "1",
+                "price": "40000",
+                "items": [
+                    {
+                        "id": 2.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.2,
+                        "name": "Banner Design",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.3,
+                        "name": "Menu(section)",
+                        "quantities": "3",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.4,
+                        "name": "Pages",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.5,
+                        "name": "Blog",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.6,
+                        "name": "Content(1500 words)",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website Company Site - Business": [
+            {
+                "id": 3,
+                "name": "Website Company Site - Business",
+                "quantities": "1",
+                "price": "50000",
+                "items": [
+                    {
+                        "id": 3.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.2,
+                        "name": "Banner Design",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.3,
+                        "name": "Menu(section)",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.4,
+                        "name": "Pages",
+                        "quantities": "10",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.5,
+                        "name": "Blog",
+                        "quantities": "10",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.6,
+                        "name": "Content(2000 words)",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.7,
+                        "name": "Chat Box",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.8,
+                        "name": "Languages",
+                        "quantities": "2",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website Company Site - Premium": [
+            {
+                "id": 4,
+                "name": "Website Company Site - Premium",
+                "quantities": "1",
+                "price": "65000",
+                "items": [
+                    {
+                        "id": 4.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.2,
+                        "name": "Banner Design",
+                        "quantities": "3",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.3,
+                        "name": "Menu(section)",
+                        "quantities": "8",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.4,
+                        "name": "Pages",
+                        "quantities": "20",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.5,
+                        "name": "Blog",
+                        "quantities": "18",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.6,
+                        "name": "Content(2500 words)",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.7,
+                        "name": "Chat Box",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.8,
+                        "name": "Languages",
+                        "quantities": "2",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "Website E-Commerce Site": {
+        "Website E-Commerce Site - Starter": [
+            {
+                "id": 1,
+                "name": "Website E-Commerce Site - Starter",
+                "quantities": "1",
+                "price": "60000",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "Banner Design",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Menu(section)",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "Products",
+                        "quantities": "5",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.5,
+                        "name": "Cart",
+                        "quantities": "20",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.6,
+                        "name": "Blog",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.7,
+                        "name": "Content(1000 words)",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.8,
+                        "name": "Chat Box",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website E-Commerce Site - Basic": [
+            {
+                "id": 2,
+                "name": "Website E-Commerce Site - Basic",
+                "quantities": "1",
+                "price": "120000",
+                "items": [
+                    {
+                        "id": 2.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.2,
+                        "name": "Banner Design",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.3,
+                        "name": "Menu(section)",
+                        "quantities": "10",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.4,
+                        "name": "Products",
+                        "quantities": "10",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.5,
+                        "name": "Cart",
+                        "quantities": "50",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.6,
+                        "name": "Blog",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.7,
+                        "name": "Content(1200 words)",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.8,
+                        "name": "Chat Box",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.9,
+                        "name": "Multi-Languages",
+                        "quantities": "2",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website E-Commerce Site - Business": [
+            {
+                "id": 3,
+                "name": "Website E-Commerce Site - Business",
+                "quantities": "1",
+                "price": "160000",
+                "items": [
+                    {
+                        "id": 3.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.2,
+                        "name": "Banner Design",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.3,
+                        "name": "Menu(section)",
+                        "quantities": "15",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.4,
+                        "name": "Products",
+                        "quantities": "15",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.5,
+                        "name": "Cart",
+                        "quantities": "100",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.6,
+                        "name": "Blog",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.7,
+                        "name": "Content(2000 words)",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.8,
+                        "name": "Chat Box",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.9,
+                        "name": "Multi-Languages",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.1,
+                        "name": "Membership System",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.11,
+                        "name": "Offer / Discount System",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website E-Commerce Site - Premium": [
+            {
+                "id": 4,
+                "name": "Website E-Commerce Site - Premium",
+                "quantities": "1",
+                "price": "180000",
+                "items": [
+                    {
+                        "id": 4.1,
+                        "name": "Design Page Layout",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.2,
+                        "name": "Banner Design",
+                        "quantities": "3",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.3,
+                        "name": "Menu(section)",
+                        "quantities": "20",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.4,
+                        "name": "Products",
+                        "quantities": "20",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.5,
+                        "name": "Cart",
+                        "quantities": "200",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.6,
+                        "name": "Blog",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.7,
+                        "name": "Content(3000 words)",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.8,
+                        "name": "Chat Box",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.9,
+                        "name": "Multi-Languages",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.1,
+                        "name": "Membership System",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 4.11,
+                        "name": "Offer / Discount System",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "Website Maintenance Services": {
+        "Website Maintenance Salepage": [
+            {
+                "id": 1,
+                "name": "Website Maintenance Salepage",
+                "quantities": "1",
+                "price": "3000",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "Site Health Check Up",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "WP Core Update",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Plugins Update",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "Report / Month",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.5,
+                        "name": "Website Consult",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.6,
+                        "name": "Hosting Consult",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.7,
+                        "name": "Backup : 1/Month",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.8,
+                        "name": "Content Update(up to 1 hour)",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website Maintenance Company": [
+            {
+                "id": 2,
+                "name": "Website Maintenance Company",
+                "quantities": "1",
+                "price": "5000",
+                "items": [
+                    {
+                        "id": 2.1,
+                        "name": "Site Health Check Up",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.2,
+                        "name": "WP Core Update",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.3,
+                        "name": "Plugins Update",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.4,
+                        "name": "Report / Month",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.5,
+                        "name": "Website Consult",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.6,
+                        "name": "Fix General Problem",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.7,
+                        "name": "Hosting Consult",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.8,
+                        "name": "Backup : 2/Month",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.9,
+                        "name": "Content Update(up to 3 hour)",
+                        "quantities": "3",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.1,
+                        "name": "Add 1 Landing Page(No Assets)",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Website Maintenance E-Commerce": [
+            {
+                "id": 3,
+                "name": "Website Maintenance E-Commerce",
+                "quantities": "1",
+                "price": "7000",
+                "items": [
+                    {
+                        "id": 3.1,
+                        "name": "Site Health Check Up",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.2,
+                        "name": "WP Core Update",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.3,
+                        "name": "Plugins Update",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.4,
+                        "name": "Report / Month",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.5,
+                        "name": "Website Consult",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.6,
+                        "name": "Fix General Problem",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.7,
+                        "name": "Hosting Consult",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.8,
+                        "name": "Backup : 3/Month",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.9,
+                        "name": "Product/Content Update(up to 4 hour)",
+                        "quantities": "4",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.1,
+                        "name": "Add 2 Landing Page(No Assets)",
+                        "quantities": "2",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "Google Packages": {
+        "Google Package Startup": [
+            {
+                "id": 1,
+                "name": "Google Package Startup",
+                "quantities": "1",
+                "price": "10000",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "Keyword Research",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "Budget Planning",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Creation & Optimisation of Search Ads Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "Campaign Monitoring & Optimisation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.5,
+                        "name": "Weekly Optimisation of Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.6,
+                        "name": "Conversion Tracking Implementation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.7,
+                        "name": "Advanced Campaign Planning & Consultation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.8,
+                        "name": "Dedicated Account Managers",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.9,
+                        "name": "Monthly Reporting",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Google Package Standard": [
+            {
+                "id": 2,
+                "name": "Google Package Standard",
+                "quantities": "1",
+                "price": "15000",
+                "items": [
+                    {
+                        "id": 2.1,
+                        "name": "Keyword Research",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.2,
+                        "name": "Budget Planning",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.3,
+                        "name": "Creation & Optimisation of Search Ads Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.4,
+                        "name": "AB Testing Text Ads",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.5,
+                        "name": "Campaign Monitoring & Optimisation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.6,
+                        "name": "Weekly Optimisation of Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.7,
+                        "name": "Conversion Tracking Implementation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.8,
+                        "name": "Advanced Campaign Planning & Consultation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.9,
+                        "name": "Competitor Analysis",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.1,
+                        "name": "Dedicated Account Managers",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.11,
+                        "name": "Mid-month Mini Report",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.12,
+                        "name": "Monthly Reporting",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Google Package Enterprise": [
+            {
+                "id": 3,
+                "name": "Google Package Enterprise",
+                "quantities": "1",
+                "price": "25000",
+                "items": [
+                    {
+                        "id": 3.1,
+                        "name": "Keyword Research",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.2,
+                        "name": "Budget Planning",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.3,
+                        "name": "Creation & Optimisation of Search Ads Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.4,
+                        "name": "Creative Banners for Display Ads: 2",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.5,
+                        "name": "AB Testing Text Ads",
+                        "quantities": "2",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.6,
+                        "name": "Campaign Monitoring & Optimisation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.7,
+                        "name": "Weekly Optimisation of Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.8,
+                        "name": "Conversion Tracking Implementation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.9,
+                        "name": "Advanced Campaign Planning & Consultation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.1,
+                        "name": "Competitor Analysis",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.11,
+                        "name": "Quality Score Audit",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.12,
+                        "name": "Landing Page Suggestions",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.13,
+                        "name": "Dedicated Account Managers",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.14,
+                        "name": "Mid-month Mini Report",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.15,
+                        "name": "Monthly Reporting",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "Facebook Packages": {
+        "Facebook Package Startup": [
+            {
+                "id": 1,
+                "name": "Facebook Package Startup",
+                "quantities": "1",
+                "price": "10000",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "Creative Banners & Contents: 4",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "Retargeting Campaign",
+                        "quantities": "4",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Language Targeting - Thai",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "Boost Post: Unlimited",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.5,
+                        "name": "Campaign Monitoring & Optimization",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.6,
+                        "name": "Pixel Implementation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.7,
+                        "name": "Advanced Campaign Planning & Consultation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.8,
+                        "name": "Dedicated Account Managers",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.9,
+                        "name": "Monthly Reporting",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Facebook Package Standard": [
+            {
+                "id": 2,
+                "name": "Facebook Package Standard",
+                "quantities": "1",
+                "price": "15000",
+                "items": [
+                    {
+                        "id": 2.1,
+                        "name": "Creative Banners & Contents: 8",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.2,
+                        "name": "Retargeting Campaign",
+                        "quantities": "8",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.3,
+                        "name": "Language Targeting - Thai & Eng",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.4,
+                        "name": "AB Testing: Audience & Creatives",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.5,
+                        "name": "Boost Post: Unlimited",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.6,
+                        "name": "Campaign Monitoring & Optimization",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.7,
+                        "name": "Pixel Implementation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.8,
+                        "name": "Competitor Research",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.9,
+                        "name": "Advanced Campaign Planning & Consultation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.1,
+                        "name": "Dedicated Account Managers",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.11,
+                        "name": "Mid-month Mini Report",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.12,
+                        "name": "Monthly Reporting",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "Facebook Package Enterprise": [
+            {
+                "id": 3,
+                "name": "Facebook Package Enterprise",
+                "quantities": "1",
+                "price": "20000",
+                "items": [
+                    {
+                        "id": 3.1,
+                        "name": "Creative Banners & Contents: 12",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.2,
+                        "name": "Retargeting Campaign",
+                        "quantities": "12",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.3,
+                        "name": "Language Targeting - Thai & Eng",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.4,
+                        "name": "AB Testing: Audience & Creatives",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.5,
+                        "name": "Boost Post: Unlimited",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.6,
+                        "name": "Campaign Monitoring & Optimization",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.7,
+                        "name": "Pixel Implementation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.8,
+                        "name": "Competitor Research",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.9,
+                        "name": "Advanced Campaign Planning & Consultation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.1,
+                        "name": "Dedicated Account Managers",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.11,
+                        "name": "Mid-month Mini Report",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 3.12,
+                        "name": "Monthly Reporting",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "TikTok Packages": {
+        "TikTok Package Startup": [
+            {
+                "id": 1,
+                "name": "TikTok Package Startup",
+                "quantities": "1",
+                "price": "10000",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "Keyword research",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "Budget Planning",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Creation and Optimisation of Search Ads Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "Campaign Monitoring & Optimization",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.5,
+                        "name": "Weekly Optimisation of Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.6,
+                        "name": "Conversion Tracking Implementation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.7,
+                        "name": "Advanced Campaign Planning & Consultation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.8,
+                        "name": "Dedicated Account Managers",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.9,
+                        "name": "Monthly Reporting",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ],
+        "TikTok Package Standard": [
+            {
+                "id": 2,
+                "name": "TikTok Package Standard",
+                "quantities": "1",
+                "price": "15000",
+                "items": [
+                    {
+                        "id": 2.1,
+                        "name": "Keyword research",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.2,
+                        "name": "Budget Planning",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.3,
+                        "name": "Creation and Optimisation of Search Ads Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.4,
+                        "name": "AB Testing Text Ads",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.5,
+                        "name": "Campaign Monitoring & Optimization",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.6,
+                        "name": "Weekly Optimisation of Campaigns",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.7,
+                        "name": "Conversion Tracking Implementation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.8,
+                        "name": "Advanced Campaign Planning & Consultation",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.9,
+                        "name": "Competitor Analysis",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.1,
+                        "name": "Dedicated Account Managers",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.11,
+                        "name": "Mid-month Mini Report",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 2.12,
+                        "name": "Monthly Reporting",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    },
+    "Backlink Packages": {
+        "Thai BackLink & Content Creation": [
+            {
+                "id": 1,
+                "name": "Thai BackLink & Content Creation",
+                "quantities": "1",
+                "price": "1900",
+                "items": [
+                    {
+                        "id": 1.1,
+                        "name": "Do follow SEO BackLinks",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.2,
+                        "name": "No Spam posting, Manual Post Only",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.3,
+                        "name": "Quality, Native Thai manually written relevant content",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.4,
+                        "name": "Permanent Link",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.5,
+                        "name": "Sites hosted on 100% Different IP's",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.6,
+                        "name": "Niche Category Website",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.7,
+                        "name": "Native Thai Language websites",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.8,
+                        "name": "All website are indexed on Google",
+                        "quantities": "1",
+                        "price": "0"
+                    },
+                    {
+                        "id": 1.9,
+                        "name": "Natural link building strategy",
+                        "quantities": "1",
+                        "price": "0"
+                    }
+                ]
+            }
+        ]
+    }
+}

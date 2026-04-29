@@ -1,0 +1,82 @@
+{
+    "Management Team": {
+        "daniel": {
+            "company_phone": "0962356594",
+            "company_email": "daniel@tbs-marketing.com",
+            "full_name": "Daniel Parsons"
+        },
+        "alex": {
+            "company_phone": "",
+            "company_email": "alex@tbs-marketing.com",
+            "full_name": "Alex Lambie"
+        }
+    },
+    "Sales Team": {
+        "Parker": {
+            "company_phone": "0933902996",
+            "company_email": "thapanat@tbs-marketing.com",
+            "full_name": "Thapanat Sikhinaram (Parker)"
+        },
+        "march": {
+            "company_phone": "0899668111",
+            "company_email": "narong@tbs-marketing.com",
+            "full_name": "Narong Khunprom (March)"
+        },
+        "billie": {
+            "company_phone": "0613843372",
+            "company_email": "billie@tbs-marketing.com",
+            "full_name": "Billie Rongkasuwan (Billie)"
+        }
+    },
+    "SEO Team": {
+        "bill": {
+            "company_phone": "0968298263",
+            "company_email": "jullapong@tbs-marketing.com",
+            "full_name": "Jullapong Oobbenjasub (Bill)"
+        },
+        "ruj": {
+            "company_phone": "0613918124",
+            "company_email": "julian@tbs-marketing.com",
+            "full_name": "Rapeeroj Pokpa (Ruj)"
+        },
+        "noey": {
+            "company_phone": "0959598607",
+            "company_email": "thanchanok@tbs-marketing.com",
+            "full_name": "Thanchanok Chullao (Noey)"
+        },
+        "winner": {
+            "company_phone": "",
+            "company_email": "vincent@tbs-marketing.com",
+            "full_name": "Chonpipat Techarukpong (Winner)"
+        },
+			"Shawn": {
+            "company_phone": "0930689965",
+            "company_email": "shawn@tbs-marketing.com",
+            "full_name": "Chaiyaporn Sirikolkarn (Shawn)"
+        }
+    },
+    "SEM Team": {
+        "golf": {
+            "company_phone": "0610180455",
+            "company_email": "chanan@tbs-marketing.com",
+            "full_name": "Golf"
+        },
+        "amber": {
+            "company_phone": "0659799045",
+            "company_email": "aunaun@tbs-marketing.com",
+            "full_name": "Aunaun Lai (Amber)"
+        },
+        "pemai": {
+            "company_phone": "",
+            "company_email": "pemai.tbs@gmail.com",
+            "full_name": "Pawanrat Thepabut (Pemai)"
+        }
+    },
+    "Dev Team": {
+        "nam": {
+            "company_phone": "0625630699",
+            "company_email": "kochakorn@tbs-marketing.com",
+            "full_name": "Kochakorn Keitiwattanapong (Nam)"
+        }
+    }
+}

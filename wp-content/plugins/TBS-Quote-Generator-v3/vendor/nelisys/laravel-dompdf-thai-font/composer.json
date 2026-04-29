@@ -1,0 +1,27 @@
+{
+    "name": "nelisys/laravel-dompdf-thai-font",
+    "description": "Adding Thai Fonts for Laravel Dompdf",
+    "keywords": ["laravel", "dompdf", "pdf", "thai", "font"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Supasin Sae-heng",
+            "email": "supasin@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nelisys\\LaravelDompdfThaiFont\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nelisys\\LaravelDompdfThaiFont\\ServiceProvider"
+            ]
+        }
+    }
+}

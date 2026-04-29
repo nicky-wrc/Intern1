@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "nelisys/laravel-dompdf-thai-font": "^0.1.0"
+    }
+}

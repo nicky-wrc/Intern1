@@ -1,0 +1,14 @@
+{
+    "thsarabunnew": {
+        "normal": "thsarabunnew_normal_4e7356a2a06f45b2e5c7e3c53eb5fd80"
+    },
+    "lineseed": {
+        "normal": "lineseed_normal_4e7356a2a06f45b2e5c7e3c53eb5fd80"
+    },
+    "sarabun": {
+        "normal": "C:\\Users\\JM505 Computers\\Local Sites\\nickyworachat\\app\\public\\wp-content\\plugins\\TBS-Quote-Generator-v3\\vendor\\dompdf\\dompdf\/lib\/fonts\/sarabun_normal_eb2c8b64aa8208bb74a158542a94434c",
+        "bold": "C:\\Users\\JM505 Computers\\Local Sites\\nickyworachat\\app\\public\\wp-content\\plugins\\TBS-Quote-Generator-v3\\vendor\\dompdf\\dompdf\/lib\/fonts\/sarabun_bold_42512766eff0c4ce02fb347878648a2c",
+        "italic": "C:\\Users\\JM505 Computers\\Local Sites\\nickyworachat\\app\\public\\wp-content\\plugins\\TBS-Quote-Generator-v3\\vendor\\dompdf\\dompdf\/lib\/fonts\/sarabun_italic_6cefaa28809076520ee0a4fa75df7be5",
+        "bold_italic": "sarabun_bold_italic_392a2feac58770753673e18cbcdaa879"
+    }
+}

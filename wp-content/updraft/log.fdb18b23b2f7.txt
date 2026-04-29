@@ -1,0 +1,214 @@
+0000.009 () Opened log file at time: Wed, 29 Apr 2026 02:09:46 +0000 on http://nickyworachat.local
+0000.009 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.22.22.25 WP: 6.9 PHP: 8.2.29 (cgi-fcgi, Windows NT DESKTOP-9K75HR8 10.0 build 26200 (Windows 11) AMD64) MySQL: 8.0.35 (max packet size=1073741824) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 6.3M | 8M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 () Free space on disk containing Updraft's temporary directory: 353994.6 MB
+0000.034 () Restore setup, now closing connection and starting restore over AJAX.
+0000.006 () Opened log file at time: Wed, 29 Apr 2026 02:09:46 +0000 on http://nickyworachat.local
+0000.007 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.22.22.25 WP: 6.9 PHP: 8.2.29 (cgi-fcgi, Windows NT DESKTOP-9K75HR8 10.0 build 26200 (Windows 11) AMD64) MySQL: 8.0.35 (max packet size=1073741824) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 3.5M | 4M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 () Free space on disk containing Updraft's temporary directory: 353994.1 MB
+0000.008 () Ensuring WP_Filesystem is setup for a restore
+0000.010 () WP_Filesystem is setup and ready for a restore
+0000.014 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_restorer_replacesiteurl":"1","include_unspecified_tables":false,"tables_to_restore":["wp_options","wp_users","wp_usermeta","wp_commentmeta","wp_comments","wp_links","wp_postmeta","wp_posts","wp_term_relationships","wp_term_taxonomy","wp_termmeta","wp_terms","wp_duplicator_pro_entities","wp_duplicator_pro_packages","wp_quote_history"],"tables_to_skip":[],"include_unspecified_plugins":false,"plugins_to_restore":["TBS-Quote-Generator-v3","bb-plugin","duplicator-pro","login-logout-menu","loginpress","loginpress-login-redirects","loginpress-pro","updraftplus","wp-fastest-cache","wp-migrate-db"],"plugins_to_skip":[],"include_unspecified_themes":false,"themes_to_restore":["astra","astra-child","twentytwentyfive","twentytwentyfour","twentytwentythree"],"themes_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.015 () PHP event: code E_DEPRECATED: rtrim(): Passing null to parameter #1 ($string) of type string is deprecated (line 2837, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-includes\formatting.php)
+0000.018 () PHP event: code E_WARNING: mkdir(): File exists (line 558, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-admin\includes\class-wp-filesystem-direct.php)
+0000.032 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.034 () Entity: db
+0000.034 () restore_backup(backup_file=backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-db.gz, type=db, info=a:0:{}, last_one=)
+0000.035 () Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-db.gz, 0.7 Mb)
+0000.035 () PHP event: code E_WARNING: mkdir(): File exists (line 558, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-admin\includes\class-wp-filesystem-direct.php)
+0000.038 () Database successfully unpacked
+0000.038 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$siteurl is deprecated (line 727, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.038 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$home is deprecated (line 728, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.038 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$content is deprecated (line 729, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.038 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$use_wpdb is deprecated (line 730, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.038 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$base_prefix is deprecated (line 732, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.038 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$mysql_dbh is deprecated (line 750, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.038 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$use_mysqli is deprecated (line 751, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.038 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$report is deprecated (line 764, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.039 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.045 () Using direct MySQL access; value of use_mysqli is: 1
+0000.046 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0000.101 () Max packet size: 1024 MB
+0000.101 () Entering maintenance mode
+0000.101 () Enabling Maintenance mode&#8230;
+0000.118 () Backup of: https://quotation.local.tbs-staging.com
+0000.118 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$old_siteurl is deprecated (line 690, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.132 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$old_home is deprecated (line 696, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.132 () Content URL: https://quotation.local.tbs-staging.com/wp-content
+0000.132 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$old_content is deprecated (line 702, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.132 () Uploads URL: https://quotation.local.tbs-staging.com/wp-content/uploads
+0000.132 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$old_uploads is deprecated (line 708, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.132 () Old table prefix: wp_
+0000.132 () Old ABSPATH: /var/www/vhosts/tbs-staging.com/quotation.local.tbs-staging.com/
+0000.132 () Site information: multisite=0
+0000.132 () Site information: sql_mode=ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0000.133 () New table prefix: bg_
+0000.139 () Processing table (InnoDB): wp_options - will restore as: bg_options
+0000.278 () Atomic restore: dropping original table (wp_options)
+0000.287 () Atomic restore: renaming new table (bg_options) to final table name (wp_options)
+0000.298 () Restoring prior UD configuration (table: wp_options; keys: 98)
+0000.438 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_BackupModule_backblaze::$test_button is deprecated (line 41, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\methods\addon-base-v2.php)
+0000.445 () PHP event: code E_DEPRECATED: substr(): Passing null to parameter #1 ($string) of type string is deprecated (line 169, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.445 () PHP event: code E_DEPRECATED: substr(): Passing null to parameter #1 ($string) of type string is deprecated (line 169, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.445 () PHP event: code E_DEPRECATED: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated (line 169, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.445 () PHP event: code E_DEPRECATED: substr(): Passing null to parameter #1 ($string) of type string is deprecated (line 169, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.445 () PHP event: code E_DEPRECATED: substr(): Passing null to parameter #1 ($string) of type string is deprecated (line 169, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.445 () PHP event: code E_DEPRECATED: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated (line 169, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.480 () PHP event: code E_DEPRECATED: preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 48, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.499 () PHP event: code E_DEPRECATED: preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 48, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.503 () PHP event: code E_DEPRECATED: preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 48, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\includes\class-manipulation-functions.php)
+0000.534 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_BackupModule_googlecloud::$test_button is deprecated (line 41, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\methods\addon-base-v2.php)
+0000.568 () PHP event: code E_DEPRECATED: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated (line 214, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\options.php)
+0000.573 () PHP event: code E_DEPRECATED: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated (line 214, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\options.php)
+0000.583 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_BackupModule_sftp::$test_button is deprecated (line 41, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\methods\addon-base-v2.php)
+0000.615 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_BackupModule_webdav::$is_supress_initial_remote_404_log is deprecated (line 171, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\webdav.php)
+0000.616 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_BackupModule_webdav::$desc is deprecated (line 173, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\webdav.php)
+0000.626 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_BackupModule_onedrive::$test_button is deprecated (line 41, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\methods\addon-base-v2.php)
+0000.633 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_BackupModule_azure::$test_button is deprecated (line 41, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\methods\addon-base-v2.php)
+0000.729 () PHP event: code E_DEPRECATED: Creation of dynamic property UpdraftPlus_Addons_Migrator::$tables_replaced is deprecated (line 810, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-content\plugins\updraftplus\addons\migrator.php)
+0000.732 () Search and replacing table: wp_options: rows: 349
+0000.768 () Incomplete object detected in database: Astra_Builder_Header; Search and replace will be skipped for these entries
+0000.768 () Incomplete object detected in database: Astra_Builder_Footer; Search and replace will be skipped for these entries
+0000.805 () Processing table (InnoDB): wp_users - will restore as: bg_users
+0000.843 () Atomic restore: dropping original table (wp_users)
+0000.853 () Atomic restore: renaming new table (bg_users) to final table name (wp_users)
+0000.870 () Search and replacing table: wp_users: rows: 20
+0000.873 () Processing table (InnoDB): wp_usermeta - will restore as: bg_usermeta
+0000.918 () Atomic restore: dropping original table (wp_usermeta)
+0000.927 () Atomic restore: renaming new table (bg_usermeta) to final table name (wp_usermeta)
+0000.946 () Search and replacing table: wp_usermeta: rows: 336
+0000.950 () Processing table (InnoDB): wp_commentmeta - will restore as: bg_commentmeta
+0000.987 () Atomic restore: dropping original table (wp_commentmeta)
+0000.996 () Atomic restore: renaming new table (bg_commentmeta) to final table name (wp_commentmeta)
+0001.011 () Search and replacing table: wp_commentmeta: rows: 0
+0001.011 () Processing table (InnoDB): wp_comments - will restore as: bg_comments
+0001.057 () Atomic restore: dropping original table (wp_comments)
+0001.067 () Atomic restore: renaming new table (bg_comments) to final table name (wp_comments)
+0001.084 () Search and replacing table: wp_comments: rows: 1
+0001.084 () Processing table (InnoDB): wp_links - will restore as: bg_links
+0001.117 () Atomic restore: dropping original table (wp_links)
+0001.129 () Atomic restore: renaming new table (bg_links) to final table name (wp_links)
+0001.146 () Search and replacing table: wp_links: rows: 0
+0001.146 () Processing table (InnoDB): wp_postmeta - will restore as: bg_postmeta
+0001.198 () Atomic restore: dropping original table (wp_postmeta)
+0001.208 () Atomic restore: renaming new table (bg_postmeta) to final table name (wp_postmeta)
+0001.221 () Search and replacing table: wp_postmeta: rows: 0
+0001.221 () Processing table (InnoDB): wp_posts - will restore as: bg_posts
+0001.268 () Atomic restore: dropping original table (wp_posts)
+0001.281 () Atomic restore: renaming new table (bg_posts) to final table name (wp_posts)
+0001.297 () Skipping search/replace on GUID column in posts table
+0001.299 () Search and replacing table: wp_posts: rows: 21
+0001.300 () Processing table (InnoDB): wp_term_relationships - will restore as: bg_term_relationships
+0001.335 () Atomic restore: dropping original table (wp_term_relationships)
+0001.344 () Atomic restore: renaming new table (bg_term_relationships) to final table name (wp_term_relationships)
+0001.355 () Skipping this table: data in this table (wp_term_relationships) should not be search/replaced
+0001.355 () Processing table (InnoDB): wp_term_taxonomy - will restore as: bg_term_taxonomy
+0001.393 () Atomic restore: dropping original table (wp_term_taxonomy)
+0001.403 () Atomic restore: renaming new table (bg_term_taxonomy) to final table name (wp_term_taxonomy)
+0001.417 () Search and replacing table: wp_term_taxonomy: rows: 5
+0001.418 () Processing table (InnoDB): wp_termmeta - will restore as: bg_termmeta
+0001.467 () Atomic restore: dropping original table (wp_termmeta)
+0001.478 () Atomic restore: renaming new table (bg_termmeta) to final table name (wp_termmeta)
+0001.492 () Search and replacing table: wp_termmeta: rows: 0
+0001.492 () Processing table (InnoDB): wp_terms - will restore as: bg_terms
+0001.542 () Atomic restore: dropping original table (wp_terms)
+0001.551 () Atomic restore: renaming new table (bg_terms) to final table name (wp_terms)
+0001.566 () Search and replacing table: wp_terms: rows: 5
+0001.567 () Processing table (InnoDB): wp_duplicator_pro_entities - will restore as: bg_duplicator_pro_entities
+0001.603 () Atomic restore: dropping original table (wp_duplicator_pro_entities)
+0001.605 () Atomic restore: renaming new table (bg_duplicator_pro_entities) to final table name (wp_duplicator_pro_entities)
+0001.618 () Search and replacing table: wp_duplicator_pro_entities: rows: 5
+0001.623 () Processing table (InnoDB): wp_duplicator_pro_packages - will restore as: bg_duplicator_pro_packages
+0001.659 () Atomic restore: dropping original table (wp_duplicator_pro_packages)
+0001.661 () Atomic restore: renaming new table (bg_duplicator_pro_packages) to final table name (wp_duplicator_pro_packages)
+0001.675 () Search and replacing table: wp_duplicator_pro_packages: rows: 1
+0001.681 () Processing table (InnoDB): wp_quote_history - will restore as: bg_quote_history
+0001.818 () Database queries processed: 50 in 1.77 seconds
+0003.377 () Unlocking database and leaving maintenance mode
+0003.377 () Disabling Maintenance mode&#8230;
+0003.378 () Atomic restore: dropping original table (wp_quote_history)
+0003.381 () Atomic restore: renaming new table (bg_quote_history) to final table name (wp_quote_history)
+0003.408 () Search and replacing table: wp_quote_history: rows: 2086
+0004.128 () Finished: lines processed: 87 in 4.08 seconds
+0004.129 () Cleaning up rubbish...
+0004.130 () Begin search and replace (updraftplus_restored_db)
+0004.130 () [Database-replace-site-url] Database: search and replace site URL
+0004.131 () Restored pre-migration site ID for this installation
+0004.135 () Database search and replace: replace https://quotation.local.tbs-staging.com in backup dump with http://nickyworachat.local
+0004.135 () Database search and replace: replace http://quotation.local.tbs-staging.com in backup dump with http://nickyworachat.local
+0004.135 () Database search and replace: replace /var/www/vhosts/tbs-staging.com/quotation.local.tbs-staging.com in backup dump with C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public
+0004.139 () Search and replacing table: wp_commentmeta: already done
+0004.139 () Search and replacing table: wp_comments: already done
+0004.139 () Search and replacing table: wp_duplicator_pro_entities: already done
+0004.139 () Search and replacing table: wp_duplicator_pro_packages: already done
+0004.139 () Search and replacing table: wp_links: already done
+0004.139 () Search and replacing table: wp_options: already done
+0004.139 () Search and replacing table: wp_postmeta: already done
+0004.139 () Search and replacing table: wp_posts: already done
+0004.139 () Search and replacing table: wp_quote_history: already done
+0004.139 () Search and replacing table: wp_term_relationships: already done
+0004.139 () Search and replacing table: wp_term_taxonomy: already done
+0004.139 () Search and replacing table: wp_termmeta: already done
+0004.139 () Search and replacing table: wp_terms: already done
+0004.139 () Search and replacing table: wp_usermeta: already done
+0004.139 () Search and replacing table: wp_users: already done
+0004.157 () Entity: plugins
+0004.157 () restore_backup(backup_file=backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins.zip, type=plugins, info=a:3:{s:4:"path";s:80:"C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public/wp-content/plugins";s:11:"description";s:7:"Plugins";s:20:"singular_description";s:6:"Plugin";}, last_one=)
+0004.158 () Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins.zip, 24.9 MB)
+0004.159 () Unzipping backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins.zip to C:/Users/JM505 Computers/Local Sites/nickyworachat/app/public/wp-content/upgrade/9c30696c/ using UpdraftPlus_ZipArchive, starting index 0
+0004.973 () Unzip progress: 1347 out of 8032 files (17 B, plugins/duplicator-pro/vendor/index.php)
+0008.043 () Unzip progress: 2348 out of 8032 files (8.9 MB, plugins/duplicator-pro/lib/onedrive/src/Krizalys/Onedrive/Folder.php)
+0010.941 () Unzip progress: 3349 out of 8032 files (15.2 MB, plugins/updraftplus/vendor/guzzlehttp/guzzle/src/Client.php)
+0013.768 () Unzip progress: 4350 out of 8032 files (23.3 MB, plugins/updraftplus/includes/labelauty/jquery-labelauty-2-22-22.min.css)
+0016.832 () Unzip progress: 5351 out of 8032 files (36.3 MB, plugins/bb-plugin/includes/vendor/mailerlite/php-http/promise/src/FulfilledPromise.php)
+0020.080 () Unzip progress: 6352 out of 8032 files (66.3 MB, plugins/TBS-Quote-Generator-v3/vendor/symfony/polyfill-mbstring/LICENSE)
+0023.286 () Unzip progress: 7353 out of 8032 files (67.8 MB, plugins/TBS-Quote-Generator-v3/vendor/nesbot/carbon/src/Carbon/Lang/en_BE.php)
+0025.358 () Unzip progress: 8032 out of 8032 files (80.9 MB, plugins/TBS-Quote-Generator-v3/vendor/dompdf/dompdf/lib/fonts/DejaVuSans-Oblique.ufm)
+0025.365 () Moving old data: filesystem method / updraft_dir is potentially possible
+0025.366 () Moving old data: can potentially use wp_filesystem method / -old
+0025.366 () Moving old data out of the way...
+0025.566 () Top-level entities being moved: TBS-Quote-Generator-v3, bb-plugin, duplicator-pro, login-logout-menu, loginpress, loginpress-login-redirects, loginpress-pro, updraftplus, wp-fastest-cache, wp-migrate-db
+0025.571 () Moving unpacked backup into place...
+0026.401 () Top-level entities being moved: TBS-Quote-Generator-v3, bb-plugin, duplicator-pro, login-logout-menu, loginpress, loginpress-login-redirects, loginpress-pro, updraftplus, wp-fastest-cache, wp-migrate-db
+0026.425 () Cleaning up rubbish...
+0026.426 () [WP Fastest Cache] Disabled this plugin: %s: re-activate it manually when you are ready.
+0026.431 () restore_backup(backup_file=backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins2.zip, type=plugins, info=a:3:{s:4:"path";s:80:"C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public/wp-content/plugins";s:11:"description";s:7:"Plugins";s:20:"singular_description";s:6:"Plugin";}, last_one=)
+0026.431 () Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins2.zip, 12.1 MB)
+0026.432 () Unzipping backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-plugins2.zip to C:/Users/JM505 Computers/Local Sites/nickyworachat/app/public/wp-content/upgrade/72badfc8/ using UpdraftPlus_ZipArchive, starting index 0
+0029.287 () Unzip progress: 899 out of 899 files (20.1 MB, plugins/wp-fastest-cache/languages/wp-fastest-cache-en_ZA.po)
+0029.291 () Moving unpacked backup into place...
+0029.513 () Top-level entities being moved: TBS-Quote-Generator-v3, bb-plugin, duplicator-pro, login-logout-menu, loginpress, loginpress-login-redirects, loginpress-pro, updraftplus, wp-fastest-cache, wp-migrate-db
+0030.995 () Cleaning up rubbish...
+0030.996 () [WP Fastest Cache] Disabled this plugin: %s: re-activate it manually when you are ready.
+0031.003 () Entity: themes
+0031.004 () restore_backup(backup_file=backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-themes.zip, type=themes, info=a:3:{s:4:"path";s:79:"C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public/wp-content/themes";s:11:"description";s:6:"Themes";s:20:"singular_description";s:5:"Theme";}, last_one=)
+0031.004 () Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-themes.zip, 18.1 MB)
+0031.005 () Unzipping backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-themes.zip to C:/Users/JM505 Computers/Local Sites/nickyworachat/app/public/wp-content/upgrade/78f353af/ using UpdraftPlus_ZipArchive, starting index 0
+0033.350 () Unzip progress: 1002 out of 1484 files (16.9 MB, themes/astra/assets/css/minified/editor-style.min-rtl.css)
+0034.992 () Unzip progress: 1484 out of 1484 files (32.1 MB, themes/astra-child/functions.php)
+0034.998 () Moving old data: filesystem method / updraft_dir is potentially possible
+0034.999 () Moving old data: can potentially use wp_filesystem method / -old
+0034.999 () Moving old data out of the way...
+0035.061 () Top-level entities being moved: astra, astra-child, twentytwentyfive, twentytwentyfour, twentytwentythree
+0035.067 () Moving unpacked backup into place...
+0035.276 () Top-level entities being moved: astra, astra-child, twentytwentyfive, twentytwentyfour, twentytwentythree
+0035.287 () Cleaning up rubbish...
+0035.294 () Entity: uploads
+0035.294 () restore_backup(backup_file=backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:80:"C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0035.294 () Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-uploads.zip, 3 MB)
+0035.296 () Unzipping backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-uploads.zip to C:/Users/JM505 Computers/Local Sites/nickyworachat/app/public/wp-content/upgrade/2388159b/ using UpdraftPlus_ZipArchive, starting index 0
+0035.384 () Unzip progress: 69 out of 69 files (3.1 MB, uploads/2024/03/aerial-photography-tianjin-city-building-skyline-night-view-768x549.webp)
+0035.388 () Moving old data: filesystem method / updraft_dir is potentially possible
+0035.389 () Moving old data: can potentially use wp_filesystem method / -old
+0035.389 () Moving old data out of the way...
+0035.393 () Moving unpacked backup into place...
+0035.429 () Cleaning up rubbish...
+0035.436 () Entity: others
+0035.436 () restore_backup(backup_file=backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-others.zip, type=others, info=a:2:{s:4:"path";s:72:"C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0035.436 () Unpacking backup... (backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-others.zip, 2.7 MB)
+0035.438 () Unzipping backup_2026-04-28-0250_TBS_Price_Quotation_Generator_d4a28a53a514-others.zip to C:/Users/JM505 Computers/Local Sites/nickyworachat/app/public/wp-content/upgrade/1951f0dd/ using UpdraftPlus_ZipArchive, starting index 0
+0035.474 () Unzip progress: 22 out of 22 files (2.7 MB, index.php)
+0035.490 () Cleaning up rubbish...
+0035.491 () PHP event: code E_WARNING: rmdir(C:/Users/JM505 Computers/Local Sites/nickyworachat/app/public/wp-content/upgrade/1951f0dd): Directory not empty (line 386, C:\Users\JM505 Computers\Local Sites\nickyworachat\app\public\wp-admin\includes\class-wp-filesystem-direct.php)
+0035.491 () Error: Failed to delete working directory after restoring. (C:/Users/JM505 Computers/Local Sites/nickyworachat/app/public/wp-content/upgrade/1951f0dd)
+0035.554 () Restore successful!
+0035.554 () Restore successful
